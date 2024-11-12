@@ -17,29 +17,34 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 # Your Changes
 
 The number of your chosen topic: `#`
+My choice is topic 1.
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+Implement the mandatory exit survey for the employees who are leaving the company. The purpose of this survey is to recognize the reasons for the turnover of entry- and lower-level employees to improve the company's personnel policy. The expectation is to collect and compare responses from different types of employees to understand the reasons for the turnover of entry- and lower-level employees.      
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+Target population: entry- and lower-level employees. 
+
+Sampling frame: all employees who leave the company for any reasons. 
+
+Sampling units: each employee who goes through the dismissal procedure. 
+
+Observational units: individual responses.
+
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What was your last position in our company?
+2. How long did you work in our company?
+3. Were you satisfied with your salary?
+4. Did you like the work relationship in your team?
+5. Was your supervisor respectful and supportive? 
+6. Was your supervisor open to professional discussion? 
+7. Did you have enough opportunities to professional development? 
+8. Were you satisfied with your job duties?
+9. Were you overwhelmed during the workday?
+10. Did you like our corporate culture?
 ```
 
 ## Rubric
